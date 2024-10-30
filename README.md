@@ -1,0 +1,2 @@
+# GitSmartMergeTest
+TEST IGNORE
